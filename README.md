@@ -15,12 +15,12 @@ go get github.com/anerg2046/tasks
 package main
 
 import (
-	"anerg/tasks"
 	"fmt"
 	"os"
 	"sync"
 
 	"github.com/anerg2046/snowflake"
+	"github.com/anerg2046/tasks"
 	"github.com/gin-gonic/gin"
 )
 
